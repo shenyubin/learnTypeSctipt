@@ -17,3 +17,13 @@ Typescript在多行字符串中插入表达式或者声明一个方法
 ![18-1-3-3.jpg](http://upload-images.jianshu.io/upload_images/2203742-09ff1ea4fff50dea.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![18-1-3-4.jpg](http://upload-images.jianshu.io/upload_images/2203742-99b1c2ed49d79702.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+#Egret开发环境安装
+##[node.js](https://nodejs.org/en/)安装
+一路下一步后安装完毕。
+##安装Typescript(我是使用npm来安装的)
+打开cmd命令行输入npm install -g typescript回车后耐心等待（可能本人电脑卡的原因停了很久还以为死机了 》。《）
+##[Egret](https://www.egret.com/)安装
+是时候开始学习Egret了（我的大刀早已饥渴难耐了）
